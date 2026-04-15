@@ -1,1 +1,1 @@
-# SCOOBY-sudoku---AI-Mystery-
+# SCOOBY-sudoku---AI-Mystery-Solver
